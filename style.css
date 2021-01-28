@@ -167,4 +167,10 @@ a:hover {
     width: auto;
     flex-direction: column;
   }
+  .navbar {
+    padding: 1rem 2rem;
+  }
+  .navbar a {
+    margin-left: 15px;
+  }
 }
